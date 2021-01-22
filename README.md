@@ -2,9 +2,9 @@
 
 Aplicación que muestra la temperatura (grados celsius), región y país de cada localización.
 
-Permite la búsqueda por:__
--Ciudad/Región/País (Ej.: "Madrid")__
--IP (Ej.: "123.456.789.012")__
+Permite la búsqueda por:\
+-Ciudad/Región/País (Ej.: "Madrid")\
+-IP (Ej.: "123.456.789.012")\
 -Coordenadas (Ej.: "56.12,23.35")
 
 Para utilizar esta aplicación debemos reconstruir los paquetes de node
