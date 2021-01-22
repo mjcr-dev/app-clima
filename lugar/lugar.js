@@ -14,7 +14,6 @@ const getLugar = async(direccion) => {
     const lat = resp_data.lat;
     const lon = resp_data.lon;
 
-
     return {
         name,
         region,
