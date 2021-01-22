@@ -20,7 +20,7 @@ Se utilizará el parámetro -d (o --direccion) para realizar la petición.
 node app -d "Madrid"
 ```
 _Salida:_\
-![clima](https://user-images.githubusercontent.com/72708265/105554365-7c824b00-5d07-11eb-9661-de045625849b.png)
+![clima](https://user-images.githubusercontent.com/72708265/105554731-3f6a8880-5d08-11eb-947e-41bd74aff3f8.png)
 
 #### Api's utilizadas:
 https://openweathermap.org/ \
