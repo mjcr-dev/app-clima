@@ -19,9 +19,10 @@ Se utilizará el parámetro -d (o --direccion) para realizar la petición.
 ```
 node app -d "Madrid"
 ```
-_Salida: El clima en Madrid, Madrid (Spain) es de 8.72 grados_
+_Salida:_
+![clima](https://user-images.githubusercontent.com/72708265/105554365-7c824b00-5d07-11eb-9661-de045625849b.png)
 
 
 #### Api's utilizadas:
-https://openweathermap.org/
+https://openweathermap.org/\
 https://www.weatherapi.com/
